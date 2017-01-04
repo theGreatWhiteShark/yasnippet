@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: cudaMalloc
+# key: cm
+# binding: direct-keybinding
+# --
+CUDA_CHECK_RETURN( cudaMalloc( $1 ) );
+$0

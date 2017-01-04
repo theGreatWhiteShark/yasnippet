@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: cudaHostAlloc
+# key: cha
+# binding: direct-keybinding
+# --
+CUDA_CHECK_RETURN( cudaHostAlloc( $1 ) );
+$0

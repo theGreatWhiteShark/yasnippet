@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: cuda_check_return
+# key: ccr
+# binding: direct-keybinding
+# --
+CUDA_CHECK_RETURN( $1 );
+$0

@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: cudaMemcpy_Device2Host
+# key: d2h
+# binding: direct-keybinding
+# --
+CUDA_CHECK_RETURN( cudaMemcpy( $1, 
+		   	       $2, 
+			       $3,
+			       cudaMemcpyDeviceToHost ) );
