@@ -4,6 +4,7 @@
 # --
 \begin{figure}[ht]
   \centering
-  \includegraphics[${1:options}]{figures/${2:path.pdf}}
-  \caption{\label{fig:${3:label}} $0}
+  \includegraphics[width=${1:1}\textwidth]{figure/${2:path}.pdf}
+  \caption{\label{fig:${3:label}} $4}
 \end{figure}
+$0
