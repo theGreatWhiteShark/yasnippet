@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Speaker-notes
+# key: note
+# --
+#+BEGIN_NOTES
+$1
+#+END_NOTES
+$0
