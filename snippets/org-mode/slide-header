@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: slide-header
+# key: head
+# --
+#+REVEAL_SLIDE_HEADER: $1
+$0
