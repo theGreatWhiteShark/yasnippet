@@ -3,6 +3,6 @@
 # name: section 
 # key: sec
 # --
-<section id=$1>
+<section id="$1">
   $0
 </section>

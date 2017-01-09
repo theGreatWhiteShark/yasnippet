@@ -3,5 +3,5 @@
 # name: link
 # key: link
 # --
-<link rel=$1 href=$2 />
+<link rel="$1" href="$2" />
 $0

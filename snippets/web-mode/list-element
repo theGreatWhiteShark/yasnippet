@@ -3,5 +3,4 @@
 # name: list-element
 # key: li
 # --
-<li>$1</li>
-$0
+<li>$1</li>$0

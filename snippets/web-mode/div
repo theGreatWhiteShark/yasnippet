@@ -3,6 +3,6 @@
 # name: div
 # key: div
 # --
-<div id=$1>
+<div id="$1">
   $0
 </div>
