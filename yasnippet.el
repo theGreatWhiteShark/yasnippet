@@ -201,6 +201,7 @@ created with `yas-new-snippet'. "
 
 (defcustom yas-new-snippet-default "\
 # -*- mode: snippet -*-
+# contributor: Philipp Müller
 # name: $1
 # key: ${2:${1:$(yas--key-from-desc yas-text)}}
 # --
