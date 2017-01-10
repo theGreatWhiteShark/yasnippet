@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/joaotavora/yasnippet.png)](https://travis-ci.org/joaotavora/yasnippet)
 
+# Why I did this fork?
+I wanted to do both minor modifications (like the new-snippet-template) and to centralize my snippet collection. Instead of forking both this package and the yasnippets-snippets one and introducing my version of the later one as a new submodule I thought: why do not kill two birds with one stone.
+
 # Intro
 
 **YASnippet** is a template system for Emacs. It allows you to
